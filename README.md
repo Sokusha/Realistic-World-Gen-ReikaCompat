@@ -1,3 +1,7 @@
+ReikaCompat Archive 202307XX
+Base on GTNH Fork
+
+---------------------------------------------------------------------------------------------------------------------------------
 ## REALISTIC WORLD GEN ##
 
 http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1281910-teds-world-gen-mods-realistic-world-gen-alpha-1-3

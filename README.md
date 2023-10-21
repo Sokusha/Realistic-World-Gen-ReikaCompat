@@ -1,9 +1,22 @@
-ReikaCompat Archive 202307XX 
+ReikaCompat Archive 202307XX
+
+Game version 1.7.10 
+
+Forge 1614
+
+GTNH 2.3.0::GC
+
+Reika v30a
+
 ---------------------------------------------------------------------------------------------------------------------------------
 Add Chromaticraft Biomes:
+
 "Ender Forest"
+
 "Rainbow Forest"
+
 "Luminous Cliffs"
+
 "Luminous Cliffs Shores"
 
 ---------------------------------------------------------------------------------------------------------------------------------

@@ -1,8 +1,11 @@
 ReikaCompat Archive 202307XX 
 ---------------------------------------------------------------------------------------------------------------------------------
-Add Chromaticraft Biomes Compat...
+Add Chromaticraft Biomes:
+"Ender Forest"
+"Rainbow Forest"
+"Luminous Cliffs"
+"Luminous Cliffs Shores"
 
-Base on GTNH Fork
 ---------------------------------------------------------------------------------------------------------------------------------
 RWG-GTNH-1.3.3.2
 
